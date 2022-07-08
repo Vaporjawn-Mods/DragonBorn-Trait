@@ -1,0 +1,31 @@
+dragonborn = {
+	shown_in_ruler_designer = yes
+	ruler_designer_cost = 100
+	prowess = 20
+	martial = 10
+	diplomacy = 10
+	learning = 2
+	health = 1
+	life_expectancy = 15
+	attraction_opinion = 5
+	inherit_chance = 1
+	physical = yes
+	good = yes
+	birth = 0.1
+	random_creation = 0.1
+	general_opinion = 10
+	fame = yes
+	monthly_piety_gain_mult = 1
+	same_faith_opinion = 15
+
+
+
+	name = "Dragon Born"
+
+	desc = "Dovahkiin are individuals with the body of a mortal, but the blood and soul of a Dragon. 
+	
+	Some believe that Dragonborn appear on the world in times of great need by the command of the Gods. 
+	
+	By Nord tradition, a Dragonborn represents what a Nord should strive to be."
+		
+}
