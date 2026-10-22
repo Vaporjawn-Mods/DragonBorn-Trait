@@ -27,7 +27,7 @@ Dragon Born rulers unlock the [b]Speak the Thu'um[/b] decision (Fus Ro Dah!):
 
 [h2]Compatibility[/h2]
 [list]
-[*] Updated for Crusader Kings III [b]1.20 "Crozier"[/b]
+[*] Updated for Crusader Kings III [b]1.20 Crozier[/b]
 [*] Adds new files only; overrides nothing from the base game
 [*] Trait name, description and decision text are translated into English, French, German, Spanish, Russian, Polish, Korean, Simplified Chinese and Japanese
 [/list]

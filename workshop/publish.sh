@@ -19,6 +19,11 @@ for f in common/traits/*.txt localization/english/*.yml; do
   [ "$(head -c 3 "$f" | xxd -p)" = "efbbbf" ] || { echo "missing UTF-8 BOM: $f"; exit 1; }
 done
 
+# A straight double quote truncates the description/change note at that point (steamcmd's VDF parsing), so refuse them.
+for f in workshop/DESCRIPTION.txt workshop/CHANGENOTES.txt; do
+  ! grep -q '"' "$f" || { echo "$f contains a double quote (it would be cut off on Steam); remove it"; exit 1; }
+done
+
 rm -rf "$STAGE"; mkdir -p "$STAGE"
 rsync -a --exclude '.git' --exclude '.gitattributes' --exclude 'workshop' --exclude '.DS_Store' ./ "$STAGE/"
 {
