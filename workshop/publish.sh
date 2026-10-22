@@ -33,7 +33,7 @@ rsync -a --exclude '.git' --exclude '.gitattributes' --exclude 'workshop' --excl
   echo "	\"contentfolder\"		\"$STAGE\""
   printf '	"changenote"		"%s"\n' "$(sed 's/"/\\"/g' workshop/CHANGENOTES.txt)"
   printf '	"description"		"%s"\n' "$(sed 's/"/\\"/g' workshop/DESCRIPTION.txt)"
-  echo "	\"previewfile\"		\"$PWD/workshop/images/banner-preview.jpg\""
+  echo "	\"previewfile\"		\"$PWD/workshop/images/cover.jpg\""
   echo '}'
 } > "$VDF"
 
