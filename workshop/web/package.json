@@ -1,0 +1,7 @@
+{
+  "name": "dragonborn-workshop-web",
+  "private": true,
+  "type": "module",
+  "description": "Drives the Steam Workshop web page to add screenshots (steamcmd and the Steamworks API cannot)",
+  "dependencies": { "playwright": "^1.50.0" }
+}
