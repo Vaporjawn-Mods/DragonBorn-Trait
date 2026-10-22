@@ -1,6 +1,4 @@
-Updated for Crusader Kings III 1.20.1.2 (Crozier).
-- Trait name and description moved to localization (trait_dragonborn / trait_dragonborn_desc).
-- Added the required trait category (fame) and removed the invalid fame = yes line.
-- Trait file renamed to dragonborn_trait.txt and saved as UTF-8 with BOM.
-- supported_version is now 1.20.*.
-Trait stats are unchanged.
+Added the Speak the Thu'um decision (Fus Ro Dah!): costs 100 piety, 5 year cooldown, grants the Voice of the Dragon buff for 3 years (+5 prowess, +25% dread gain, +0.5 monthly prestige).
+Trait and decision text are now translated into French, German, Spanish, Russian, Polish, Korean, Simplified Chinese and Japanese.
+New preview image and a full description of the trait, its stats and the decision.
+Trait stats are unchanged. Compatible with Crusader Kings III 1.20.1.2 (Crozier).
