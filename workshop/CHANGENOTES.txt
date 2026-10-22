@@ -1,0 +1,6 @@
+Updated for Crusader Kings III 1.20.1.2 (Crozier).
+- Trait name and description moved to localization (trait_dragonborn / trait_dragonborn_desc).
+- Added the required trait category (fame) and removed the invalid fame = yes line.
+- Trait file renamed to dragonborn_trait.txt and saved as UTF-8 with BOM.
+- supported_version is now 1.20.*.
+Trait stats are unchanged.
