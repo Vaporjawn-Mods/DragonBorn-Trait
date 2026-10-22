@@ -1,0 +1,9 @@
+﻿l_polish:
+ trait_dragonborn:0 "Smoczorodny"
+ trait_dragonborn_desc:0 "Dovahkiin to istoty o ciele śmiertelnika, lecz o krwi i duszy smoka.\n\nNiektórzy wierzą, że Smoczorodni pojawiają się na świecie w czasach wielkiej potrzeby, na rozkaz bogów. Według tradycji Nordów Smoczorodny jest tym, do czego powinien dążyć każdy Nord.\n\nSmoczorodny jest wyjątkowo rzadki, jednocześnie wojownikiem, przywódcą i postacią świętą, i może #bold wypowiedzieć Thu'um#!, by przywołać moc swojej smoczej duszy."
+ dragonborn_thuum_decision:0 "Wypowiedz Thu'um"
+ dragonborn_thuum_decision_desc:0 "Dawne słowa wznoszą się w moim gardle. Gdy krzyczę, góry pamiętają smoki."
+ dragonborn_thuum_decision_tooltip:0 "Krzycz głosem smoka. Zużywa pobożność i można tego użyć raz na 5 lat."
+ dragonborn_thuum_decision_confirm:0 "Fus Ro Dah!"
+ dragonborn_thuum_modifier:0 "Głos smoka"
+ dragonborn_thuum_modifier_desc:0 "Thu'um wciąż rozbrzmiewa w królestwie. Twoi wrogowie wahają się stanąć naprzeciw Smoczorodnego."

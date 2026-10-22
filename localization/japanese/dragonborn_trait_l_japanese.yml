@@ -1,0 +1,9 @@
+﻿l_japanese:
+ trait_dragonborn:0 "ドラゴンボーン"
+ trait_dragonborn_desc:0 "ドヴァーキンは、死すべき者の肉体に竜の血と魂を宿す存在です。\n\n大いなる危機のとき、神々の命によってドラゴンボーンが現れると信じる者もいます。ノルドの伝統では、ドラゴンボーンはすべてのノルドが目指すべき姿を体現します。\n\nドラゴンボーンは極めて稀で、戦士であり、指導者であり、聖なる存在でもあり、#bold スゥームを放つ#!ことで竜の魂の力を呼び起こせます。"
+ dragonborn_thuum_decision:0 "スゥームを放つ"
+ dragonborn_thuum_decision_desc:0 "古の言葉が喉の奥から湧き上がる。私が叫べば、山々は竜を思い出す。"
+ dragonborn_thuum_decision_tooltip:0 "竜の声で叫びます。信心を消費し、5年に1度しか使えません。"
+ dragonborn_thuum_decision_confirm:0 "フス・ロ・ダー!"
+ dragonborn_thuum_modifier:0 "竜の声"
+ dragonborn_thuum_modifier_desc:0 "スゥームはいまも王国に響いています。敵はドラゴンボーンに立ち向かうことをためらいます。"

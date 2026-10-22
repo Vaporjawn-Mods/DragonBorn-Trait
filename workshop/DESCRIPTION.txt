@@ -1,0 +1,36 @@
+[h1]DragonBorn Trait[/h1]
+Adds the [b]Dragon Born[/b] trait (Dovahkiin) to Crusader Kings III: a very rare, hereditary, fame-category trait for characters with the body of a mortal and the blood and soul of a dragon, plus a signature ability: [b]Speak the Thu'um[/b].
+
+[h2]The trait[/h2]
+[list]
+[*] [b]Prowess[/b] +20, [b]Martial[/b] +10, [b]Diplomacy[/b] +10, [b]Learning[/b] +2
+[*] [b]Health[/b] +1 and [b]Life expectancy[/b] +15 years
+[*] [b]General opinion[/b] +10, [b]Same-faith opinion[/b] +15, [b]Attraction[/b] +5
+[*] [b]Monthly piety gain multiplier[/b] +1 (that is +100% on top of normal piety income)
+[*] Marked as a physical, good trait, so it counts as desirable in character creation and inheritance
+[/list]
+
+[h2]How you get it[/h2]
+[list]
+[*] [b]Ruler designer:[/b] selectable for 100 points
+[*] [b]Birth / random creation:[/b] 0.1% of newborns and generated characters (roughly 1 in 1,000)
+[*] [b]Inheritance:[/b] 1% chance for a child to inherit it from a Dragon Born parent
+[/list]
+
+[h2]Speak the Thu'um (decision)[/h2]
+Dragon Born rulers unlock the [b]Speak the Thu'um[/b] decision (Fus Ro Dah!):
+[list]
+[*] Costs [b]100 piety[/b] and gives [b]+Minor prestige[/b]
+[*] Grants the [b]Voice of the Dragon[/b] modifier for [b]3 years[/b]: Prowess +5, Dread gain +25%, +0.5 prestige per month
+[*] [b]5 year[/b] cooldown. Not used by the AI.
+[/list]
+
+[h2]Compatibility[/h2]
+[list]
+[*] Updated for Crusader Kings III [b]1.20 "Crozier"[/b]
+[*] Adds new files only; overrides nothing from the base game, so it is safe to add or remove mid-playthrough
+[*] Trait name, description and decision text are translated into English, French, German, Spanish, Russian, Polish, Korean, Simplified Chinese and Japanese
+[/list]
+
+[h2]Source[/h2]
+https://github.com/Vaporjawn-Mods/DragonBorn-Trait

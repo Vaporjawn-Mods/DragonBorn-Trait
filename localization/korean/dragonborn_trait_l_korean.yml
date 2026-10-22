@@ -1,0 +1,9 @@
+﻿l_korean:
+ trait_dragonborn:0 "용의 피"
+ trait_dragonborn_desc:0 "도바킨은 필멸자의 몸에 용의 피와 영혼을 지닌 존재입니다.\n\n어떤 이들은 용의 피를 이은 자가 큰 위기의 때에 신들의 명령으로 세상에 나타난다고 믿습니다. 노르드의 전통에서 도바킨은 모든 노르드가 지향해야 할 모습을 상징합니다.\n\n도바킨은 극히 드물며 전사이자 지도자이며 성스러운 존재로서, #bold 투움을 외쳐#! 용의 영혼이 지닌 힘을 불러낼 수 있습니다."
+ dragonborn_thuum_decision:0 "투움을 외치다"
+ dragonborn_thuum_decision_desc:0 "오래된 말들이 목구멍에서 솟아오른다. 내가 외치면 산들은 용을 기억한다."
+ dragonborn_thuum_decision_tooltip:0 "용의 목소리로 외칩니다. 경건함을 소모하며 5년에 한 번만 사용할 수 있습니다."
+ dragonborn_thuum_decision_confirm:0 "푸스 로 다!"
+ dragonborn_thuum_modifier:0 "용의 목소리"
+ dragonborn_thuum_modifier_desc:0 "투움이 아직 왕국에 메아리치고 있습니다. 적들은 도바킨에 맞서기를 주저합니다."

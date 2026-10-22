@@ -1,0 +1,39 @@
+﻿# Speak the Thu'um: the Dragonborn's signature ability.
+# Costs piety, can be used every 5 years, and grants a 3 year modifier.
+@dragonborn_thuum_cooldown_years = 5
+@dragonborn_thuum_duration_years = 3
+
+dragonborn_thuum_decision = {
+	picture = {
+		reference = "gfx/interface/illustrations/decisions/decision_misc.dds"
+	}
+	sort_order = 60
+	ai_check_interval = 0
+
+	desc = dragonborn_thuum_decision_desc
+	selection_tooltip = dragonborn_thuum_decision_tooltip
+	confirm_text = dragonborn_thuum_decision_confirm
+
+	cooldown = { years = @dragonborn_thuum_cooldown_years }
+
+	is_shown = {
+		has_trait = dragonborn
+		is_playable_character = yes
+	}
+
+	is_valid_showing_failures_only = {
+		is_available_adult = yes
+	}
+
+	cost = {
+		piety = medium_piety_value
+	}
+
+	effect = {
+		add_character_modifier = {
+			modifier = dragonborn_thuum_modifier
+			years = @dragonborn_thuum_duration_years
+		}
+		add_prestige = minor_prestige_gain
+	}
+}

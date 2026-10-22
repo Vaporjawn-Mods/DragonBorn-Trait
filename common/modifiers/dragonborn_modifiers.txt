@@ -1,0 +1,7 @@
+﻿# Applied for 3 years by dragonborn_thuum_decision.
+dragonborn_thuum_modifier = {
+	icon = prowess_positive
+	prowess = 5
+	dread_gain_mult = 0.25
+	monthly_prestige = 0.5
+}

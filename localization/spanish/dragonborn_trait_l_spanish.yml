@@ -1,0 +1,9 @@
+﻿l_spanish:
+ trait_dragonborn:0 "Sangre de Dragón"
+ trait_dragonborn_desc:0 "Los Dovahkiin son individuos con el cuerpo de un mortal, pero con la sangre y el alma de un dragón.\n\nAlgunos creen que los Sangre de Dragón aparecen en el mundo en tiempos de gran necesidad por mandato de los dioses. Según la tradición nórdica, un Sangre de Dragón representa lo que todo nórdico debería aspirar a ser.\n\nUn Sangre de Dragón es extraordinariamente raro, guerrero, líder y figura sagrada a la vez, y puede #bold pronunciar el Thu'um#! para invocar el poder de su alma de dragón."
+ dragonborn_thuum_decision:0 "Pronunciar el Thu'um"
+ dragonborn_thuum_decision_desc:0 "Las palabras antiguas suben por mi garganta. Cuando grito, las montañas recuerdan a los dragones."
+ dragonborn_thuum_decision_tooltip:0 "Grita con la voz de un dragón. Gasta piedad y solo puede usarse una vez cada 5 años."
+ dragonborn_thuum_decision_confirm:0 "¡Fus Ro Dah!"
+ dragonborn_thuum_modifier:0 "Voz del dragón"
+ dragonborn_thuum_modifier_desc:0 "El Thu'um aún resuena por el reino. Tus enemigos dudan en enfrentarse al Sangre de Dragón."

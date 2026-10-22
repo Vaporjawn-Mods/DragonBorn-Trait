@@ -1,0 +1,9 @@
+﻿l_french:
+ trait_dragonborn:0 "Sang-de-dragon"
+ trait_dragonborn_desc:0 "Les Dovahkiin ont le corps d'un mortel, mais le sang et l'âme d'un dragon.\n\nCertains croient que les Sang-de-dragon apparaissent dans le monde aux heures de grand besoin, sur l'ordre des dieux. Selon la tradition nordique, un Sang-de-dragon incarne ce à quoi chaque Nordique devrait aspirer.\n\nUn Sang-de-dragon est extrêmement rare, à la fois guerrier, chef et figure sacrée, et peut #bold prononcer le Thu'um#! pour invoquer la puissance de son âme de dragon."
+ dragonborn_thuum_decision:0 "Prononcer le Thu'um"
+ dragonborn_thuum_decision_desc:0 "Les mots anciens montent dans ma gorge. Quand je crie, les montagnes se souviennent des dragons."
+ dragonborn_thuum_decision_tooltip:0 "Criez avec la voix d'un dragon. Coûte de la piété et ne peut être utilisé qu'une fois tous les 5 ans."
+ dragonborn_thuum_decision_confirm:0 "Fus Ro Dah !"
+ dragonborn_thuum_modifier:0 "Voix du dragon"
+ dragonborn_thuum_modifier_desc:0 "Le Thu'um résonne encore à travers le royaume. Vos ennemis hésitent à s'opposer au Sang-de-dragon."

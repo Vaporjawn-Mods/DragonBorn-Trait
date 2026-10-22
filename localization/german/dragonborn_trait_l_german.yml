@@ -1,0 +1,9 @@
+﻿l_german:
+ trait_dragonborn:0 "Drachenblut"
+ trait_dragonborn_desc:0 "Die Dovahkiin besitzen den Körper eines Sterblichen, aber das Blut und die Seele eines Drachen.\n\nManche glauben, dass Drachenblütige in Zeiten großer Not auf den Befehl der Götter in die Welt treten. Nach nordischer Tradition verkörpert ein Drachenblut, wonach jeder Nord streben sollte.\n\nEin Drachenblut ist außergewöhnlich selten, zugleich Krieger, Anführer und heilige Gestalt, und kann #bold das Thu'um sprechen#!, um die Macht seiner Drachenseele zu rufen."
+ dragonborn_thuum_decision:0 "Das Thu'um sprechen"
+ dragonborn_thuum_decision_desc:0 "Die alten Worte steigen in meiner Kehle auf. Wenn ich schreie, erinnern sich die Berge an die Drachen."
+ dragonborn_thuum_decision_tooltip:0 "Schreie mit der Stimme eines Drachen. Kostet Frömmigkeit und kann nur alle 5 Jahre eingesetzt werden."
+ dragonborn_thuum_decision_confirm:0 "Fus Ro Dah!"
+ dragonborn_thuum_modifier:0 "Stimme des Drachen"
+ dragonborn_thuum_modifier_desc:0 "Das Thu'um hallt noch immer durch das Reich. Eure Feinde zögern, sich dem Drachenblut entgegenzustellen."

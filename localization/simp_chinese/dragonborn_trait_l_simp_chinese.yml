@@ -1,0 +1,9 @@
+﻿l_simp_chinese:
+ trait_dragonborn:0 "龙裔"
+ trait_dragonborn_desc:0 "多瓦金拥有凡人的身躯，却有着巨龙的血脉与灵魂。\n\n有人相信，龙裔会在世界急需之时，奉诸神之命降临。按照诺德人的传统，龙裔代表了每个诺德人应当追求的理想。\n\n龙裔极为罕见，集战士、领袖与圣者于一身，并能#bold 发出龙吼#!，唤起其龙魂之力。"
+ dragonborn_thuum_decision:0 "发出龙吼"
+ dragonborn_thuum_decision_desc:0 "古老的言语在我喉间升起。当我呐喊时，群山都会想起巨龙。"
+ dragonborn_thuum_decision_tooltip:0 "以巨龙之声呐喊。消耗虔诚，每5年只能使用一次。"
+ dragonborn_thuum_decision_confirm:0 "佛斯·罗·达！"
+ dragonborn_thuum_modifier:0 "巨龙之声"
+ dragonborn_thuum_modifier_desc:0 "龙吼依然在王国中回荡。你的敌人不敢与龙裔对抗。"
