@@ -1,0 +1,29 @@
+﻿dragonborn = {
+	category = fame
+
+	shown_in_ruler_designer = yes
+	ruler_designer_cost = 100
+
+	# Character stats
+	prowess = 20
+	martial = 10
+	diplomacy = 10
+	learning = 2
+	health = 1
+	life_expectancy = 15
+
+	# Opinions
+	attraction_opinion = 5
+	general_opinion = 10
+	same_faith_opinion = 15
+
+	# Piety
+	monthly_piety_gain_mult = 1
+
+	# Inheritance and generation
+	physical = yes
+	good = yes
+	inherit_chance = 1
+	birth = 0.1
+	random_creation = 0.1
+}
